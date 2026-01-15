@@ -1,0 +1,5 @@
+{
+  "name": "LifeSim: Decision Engine",
+  "description": "A high-fidelity life decision simulation engine powered by Gemini. It projects realistic outcomes over 1, 3, 5, and 10 years, analyzing financial, mental, and relational impacts with brutal honesty.",
+  "requestFramePermissions": []
+}
